@@ -1,0 +1,57 @@
+[
+  {
+    "role": "user",
+    "text": "hello",
+    "ts": "2025-11-04T04:27:22.659112Z",
+    "model": "Marcus"
+  },
+  {
+    "role": "server",
+    "text": "Acknowledged: hello",
+    "ts": "2025-11-04T04:27:22.659232Z"
+  },
+  {
+    "role": "user",
+    "text": "hello",
+    "ts": "2025-11-04T04:27:53.076298Z",
+    "model": "Marcus"
+  },
+  {
+    "role": "server",
+    "text": "Acknowledged: hello",
+    "ts": "2025-11-04T04:27:53.076340Z"
+  },
+  {
+    "role": "user",
+    "text": "what's good",
+    "ts": "2025-11-04T04:28:07.221788Z",
+    "model": "Agent2"
+  },
+  {
+    "role": "server",
+    "text": "Acknowledged: what's good",
+    "ts": "2025-11-04T04:28:07.221828Z"
+  },
+  {
+    "role": "user",
+    "text": "hello",
+    "ts": "2025-11-04T05:51:25.455666Z",
+    "model": "Marcus"
+  },
+  {
+    "role": "server",
+    "text": "Acknowledged: hello",
+    "ts": "2025-11-04T05:51:25.455771Z"
+  },
+  {
+    "role": "user",
+    "text": "test",
+    "ts": "2025-11-04T05:52:28.718936Z",
+    "model": "Marcus"
+  },
+  {
+    "role": "server",
+    "text": "Acknowledged: test",
+    "ts": "2025-11-04T05:52:28.718982Z"
+  }
+]
