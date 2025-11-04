@@ -11,3 +11,5 @@ build/
 # System
 .DS_Store
 .env
+
+messages.json
