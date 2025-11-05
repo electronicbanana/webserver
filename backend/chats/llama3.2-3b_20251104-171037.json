@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "Hey",
+    "model": "llama3.2:1b",
+    "persona": "Marcus",
+    "created": "2025-11-04T17:10:37.672075Z"
+  },
+  "messages": [
+    {
+      "id": 1,
+      "role": "user",
+      "text": "Hey",
+      "ts": "2025-11-05T06:12:04.203906Z",
+      "model": "llama3.2:3b"
+    },
+    {
+      "id": 2,
+      "role": "server",
+      "text": "What's on your mind? Need help with something or just want to chat?",
+      "ts": "2025-11-05T06:12:40.709035Z",
+      "model": "llama3.2:3b"
+    }
+  ]
+}
